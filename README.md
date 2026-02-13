@@ -11,5 +11,5 @@
 - The dataset we used is already included. Source :  https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?resource=download 
 
 # Others contributers 
-- Yassine Ben Ammar - yassine.ben-ammar@etu.utc.fr
+- Léopold Chappuis - leopold.chappuis@etu.utc.fr
 - Antoine Basile - antoine.basile@etu.utc.fr
